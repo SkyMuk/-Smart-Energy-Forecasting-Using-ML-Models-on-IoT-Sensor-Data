@@ -1,4 +1,4 @@
-# 🔋 Smart Energy Forecasting using ML on IoT Sensor Data
+# Smart Energy Forecasting using ML on IoT Sensor Data
 
 This project explores how machine learning models can forecast energy consumption using IoT sensor data. It supports smarter energy usage, load forecasting, and sustainability planning in smart homes and industrial environments.
 
